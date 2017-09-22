@@ -2,8 +2,8 @@
 
 Clone the repo
 
-`yarn`
+`npm install`
 
-Start the server: `PORT=4001 yarn serve`
+Start the server: `PORT=4001 npm run serve`
 
-Start the frontend: `yarn start`
+Start the frontend: `npm run start`
