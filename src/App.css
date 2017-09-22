@@ -22,3 +22,9 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+tr.diff-line, tr.diff-hunk-header
+{
+  font-size: 0.5rem;
+  line-height: 0.5rem;
+}

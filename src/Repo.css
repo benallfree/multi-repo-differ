@@ -1,0 +1,8 @@
+.Repo
+{
+  width:48%; 
+  margin:4px; 
+  border:1px solid black; 
+  float: left;
+  overflow: scroll;
+}
